@@ -16,4 +16,7 @@ Figure 2. Binary classification results confusion matrix
 Figure 3. Multiclass classification results confusion matrix using most optimized model
 
 **Key Insights, Limitations, and Future Directions**  
-The findings highlight the strength of binary sentiment classification, particularly for extreme sentiments, and the promise of word embedding-based models for improved performance. However, limitations include the noisiness of neutral data and the inability to process words absent from the training corpus, which points to the need for broader word embedding models. To enhance the system's robustness, future steps include collecting more data, refining the word embedding schemes, and exploring alternative feature extraction methods. These developments will further enable developers to understand user sentiment and improve their products effectively.
+The findings highlight the strength of binary sentiment classification, particularly for extreme sentiments, and the promise of word embedding-based models for improved performance. However, limitations include the noisiness of neutral data and the inability to process words absent from the training corpus, which points to the need for broader word embedding models. To enhance the system's robustness, future steps include collecting more data, refining the word embedding schemes, and exploring alternative feature extraction methods. These developments will further enable developers to understand user sentiment and improve their products effectively.  
+
+
+**To see more details about this project: check out the "Sentiment Analysis Project.docx" file posted in this repository!**
