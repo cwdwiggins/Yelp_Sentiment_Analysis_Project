@@ -1,7 +1,7 @@
 **Sentiment Analysis Project Overview**  
 This project aims to address the challenge of aggregating and interpreting user feedback effectively, specifically focusing on Yelp reviews. With user feedback being a key metric for product evaluation, the project introduces a natural language processing (NLP) pipeline to classify sentiments expressed in reviews quickly and accurately. The process involves scraping reviews from the Apple App Store, preprocessing text data to standardize its format, and using exploratory data analysis (EDA) to uncover patterns in language usage across review categories. Word clouds and unique word counts helped highlight differences in extreme and neutral contexts, emphasizing the varied nature of user feedback.
 
-**Exploratory Data Analysis**
+**Exploratory Data Analysis**  
 The exploratory data analysis involved developing several functions that would preprocess the text and remove common stop words, as well as a function to examine the word counts of unique words in each category. Below is one figure that had a key finding:   
 ![](Pictures/EDA.png)    
 Figure 1. Word counts for unique words in each category, showing frequently used words in positive, neutral, and negative contexts
